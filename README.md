@@ -1,6 +1,11 @@
 # 🎮 Kodland Game - Mini Plataforma em Python
 
-Este projeto é um **jogo simples no estilo platformer** desenvolvido em **Python com a biblioteca PgZero**, ideal para fins educacionais. Foi feito como parte de um teste técnico para a Kodland.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![License](https://img.shields.io/badge/Licença-Livre-lightgrey)
+
+Este projeto é um **jogo simples no estilo platformer** desenvolvido em **Python com a biblioteca PgZero**, ideal para fins educacionais.  
+Foi feito como parte de um **teste técnico para a Kodland**.
 
 ---
 
@@ -22,29 +27,16 @@ Antes de rodar, certifique-se de ter:
 - Instalar a biblioteca **PgZero**:
   ```bash
   pip install pgzero
+
 ▶️ Como executar
 Clone o repositório ou baixe o projeto:
-
-bash
-Copy
-Edit
 git clone https://github.com/Cor4l92/projeto-game-py-kodland.git
 Acesse a pasta do projeto:
-
-bash
-Copy
-Edit
 cd projeto-game-py-kodland
 Execute o jogo:
-
-bash
-Copy
-Edit
 python -m pgzero jogo.py
+
 📂 Estrutura do projeto
-bash
-Copy
-Edit
 kodland_game_package/
 │
 ├── jogo.py                # Código principal
@@ -63,11 +55,7 @@ kodland_game_package/
 └── music/                 # Música de fundo
     └── background_music.mp3
 
-    
-## 🎥 Prévia do Jogo
-![Kodland Game Preview](kodland_game_preview.gif)
-
-
+🎥 Prévia do Jogo ![Kodland Game Preview](kodland_game_preview.gif)
 
 💡 Como melhorar
 Este projeto pode ser expandido com:
@@ -89,5 +77,3 @@ Sandro Luis de Paula Junior
 
 🏁 Licença
 Uso livre para fins educacionais. Pode modificar e distribuir.
-
----
