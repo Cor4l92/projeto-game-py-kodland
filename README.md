@@ -55,7 +55,8 @@ kodland_game_package/
 └── music/                 # Música de fundo
     └── background_music.mp3
 
-🎥 Prévia do Jogo ![Kodland Game Preview](kodland_game_preview.gif)
+🎥 Prévia do Jogo
+![Kodland Game Preview](kodland_game_preview.gif)
 
 💡 Como melhorar
 Este projeto pode ser expandido com:
