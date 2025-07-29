@@ -62,7 +62,11 @@ kodland_game_package/
 │   └── jump.wav
 └── music/                 # Música de fundo
     └── background_music.mp3
-🎥 Prévia do Jogo
+
+    
+## 🎥 Prévia do Jogo
+![Kodland Game Preview](kodland_game_preview.gif)
+
 
 
 💡 Como melhorar
